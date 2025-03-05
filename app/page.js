@@ -1,19 +1,30 @@
+import Image from 'next/image';
+import Link from 'next/link';
+import './globals.css';
+
 export default function Home() {
   return (
       <div>
-          <nav>
-              <a href="/">🏠 Home</a>
-              <a href="/projects">📂 Projects</a>
-              <a href="/about">👤 About</a>
-              <a href="/contact">📧 Contact</a>
-          </nav>
+          
 
           <div className="container">
               {/* Full-Width Hero Section */}
               <div className="hero">
-                  <h1>Building the Future, One Line of Code at a Time.</h1>
-                  <p>Creating seamless, high-performance web experiences.</p>
-                  <button>Explore My Work</button>
+                  <h1>"Hey, I'm Husain."</h1>
+                  
+                  <p>
+Software development isn’t just about writing code—it’s about making things fast, smooth, and reliable.
+I focus on creating clean, functional, and user-friendly experiences that actually make sense.</p>
+                  
+                 
+                  
+                  
+                  
+                  
+                  
+                  
+                  <Image src="/aaa.png" alt="Edited version" width={600} height={600} />
+    
               </div>
 
               {/* Column-based Sections */}

@@ -1,9 +1,12 @@
 export default function Contacts() {
     return (
-      <div style={{ padding: "20px", maxWidth: "600px", margin: "auto" }}>
+
+      <div className="container">
+      <div className="hero1">
         <h1>Contact:</h1>
         <p>Feel free to reach out to me!</p><br></br>
-  
+  </div>
+  <div>
         <h3>Email:</h3>
         <p>husainsandhi.hs@gmail.com</p><br></br>
   
@@ -12,8 +15,12 @@ export default function Contacts() {
 
         
         <h3>Linkedin:</h3>
-        <p>https://www.linkedin.com/in/husainsandhi/</p>
-      </div>
+        <p>https://www.linkedin.com/in/husainsandhi/</p><br></br>
+
+
+        <h3>GitHub:</h3>
+        <p>https://github.com/HusainAbbasSandhi/</p>
+      </div></div>
     );
   }
   
