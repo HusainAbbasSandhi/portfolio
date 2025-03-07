@@ -9,8 +9,10 @@ export default function Layout({ children }) {
               <a href="/contact">Contact</a>
           </nav>
               {children}
+              <SpeedInsights />
           </body>
       </html>
   );
 }
 import './globals.css';
+import { SpeedInsights } from "@vercel/speed-insights/next"

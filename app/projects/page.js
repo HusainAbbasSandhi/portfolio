@@ -28,7 +28,7 @@ const projects = [
     },
     {
         title: "Portfolio Website",
-        image: "/po.png",
+        image: "/port.jpg",
         description: "A personal website showcasing my projects, skills, and experience.",
         link: "https://portfolio-chi-topaz-25.vercel.app/"
     },
