@@ -9,9 +9,9 @@ const projects = [
         link: "#"
     },
     {
-        title: "Smart Job Recommender",
+        title: "ElectionIntel Pro",
         image: "/jb.png",
-        description: "An AI-based system that suggests jobs based on skills and preferences.",
+        description: "Comprehensive Election Financial Intelligence dashboard designed to empower voters by providing real-time",
         link: "#"
     },
     {
