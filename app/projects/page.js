@@ -12,7 +12,7 @@ const projects = [
         title: "ElectionIntel Pro",
         image: "/jb.png",
         description: "Comprehensive Election Financial Intelligence dashboard designed to empower voters by providing real-time",
-        link: "https://election-intel.vercel.app/"
+        link: "https://portfolio-chi-topaz-25.vercel.app/"
     },
     {
         title: "IoT Smart Parking",
